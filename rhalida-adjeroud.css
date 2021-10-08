@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:wght@600&display=swap');
+
+body{
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+    font-family:'Monserrat', sans-serrif;
+    position: relative;
+} 
+.div1{
+    background-color: rgb(6, 148, 101);
+    width: 250px;
+    padding: 10px;
+    border: 20px;
+    margin: 0pX;
+    position:absolute; right: 0px; top: 253px;
+}
+h1{
+    outline-style: dashed;
+    border: 1px solid rgb(6, 148, 101);
+    outline-style: solid;
+    outline-color: rgb(6, 148, 101);
+    outline-width: 4px;
+    text-align: center;
+}
+header p{
+    margin-top: -20px;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid #000
+}
+h2{
+    .header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+  border-radius: 5px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.header a:hover {
+  background-color: deepskyblue;
+  color: black;
+}
+}

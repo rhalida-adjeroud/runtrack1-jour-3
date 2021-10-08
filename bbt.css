@@ -1,0 +1,38 @@
+h1 {
+	color:yellow;
+	text-align: center; 
+	text-shadow: 6px 5px #0000CD;
+}
+
+body {
+	background-color: pink;
+	}
+
+ul.{
+  list-style-type: square;
+  list-style-type: left;
+}
+
+
+img {
+	border-radius: 15px 50px 30px 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p{
+	outline-style: dashed;
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: #0000CD;
+  outline-width: 4px;
+}
+div.relative {
+  position: relative;
+  left: auto;
+  border: auto solid #0000CD;
+}
+<div class="container">
+  <img src="https://www.numerama.com/wp-content/uploads/2018/07/simpsons.jpg" alt="BBT" width="1000" height="300">
+  <div class="topright"> </div>

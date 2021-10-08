@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Montserrat&family=Open+Sans:wght@400;700&family=Playfair+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:wght@600&display=swap');
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background-color: #fFff00;
+    margin: 0;
+    padding: 0;
+    font-family:'Monserrat', sans-serrif;
+    position: relative;
+} 
+.div1{
+    background-color:salmon;
+    width: 255px;
+    padding: 10px;
+    border: 20px;
+    margin: 0pX;
+    position:absolute; right: 0px; top: 198px;
+}
+h1{
+    outline-style: dashed;
+    border: 1px solid salmon;
+    outline-style: solid;
+    outline-color: salmon;
+    outline-width: 4px;
+    text-align: center;
+}
+header p{
+    margin-top: -20px;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid #000
+}
+h2{
+    margin-top: -20px;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    text-align: center;
+}
+
